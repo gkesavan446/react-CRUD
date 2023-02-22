@@ -13,14 +13,14 @@ import EditUser from './Users/EditUser';
 function App() {
   const [data, setData] = useState([
     {
-      id: 5001,
+      id: 1,
       name: "Bill",
       email: "Need to pay Electricity Bill",
       role: "No",
       salary: "Pending"
     },
     {
-      id: 5002,
+      id: 2,
       name: "Payment",
       email: "Need to collect from Sudhakar",
       role: "yes",
